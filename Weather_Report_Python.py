@@ -1,5 +1,4 @@
 #Purpose: Program(getting data from an open API) presents a user with a weather report for the entered zip or city as many times as asked.
-#Assignment number: 12.1.
 #Name: Natallia Casey
 #Importing neccesary modules
 import requests
