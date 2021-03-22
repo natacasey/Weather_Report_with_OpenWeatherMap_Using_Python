@@ -8,7 +8,7 @@ The report can be generated multiple times until a user gives a command to stop 
 
 ## Development
 
-Programming language - Python 3.7. OS - Windows 10 Home. You will need to use [OpenWeatherMap description](https://openweathermap.org/current) to obtain the key. The link contains information needed to call the API.
+Programming language - Python 3.7. OS - Windows 10 Home. The API key could be obtained at [OpenWeatherMap description](https://openweathermap.org/current).
 
 ## Project description
 
